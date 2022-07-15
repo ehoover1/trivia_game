@@ -1,6 +1,6 @@
 # trivia_game
 
-very simple trivia game to be played with friends over Zoom. Questions sourced from a .csv file of questions from episodes of Jeopardy.
+very simple trivia game to be played with friends over Zoom. Questions sourced from a .csv file of old Jeopardy questions.
 
 controls:
 
